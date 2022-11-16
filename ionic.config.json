@@ -1,0 +1,8 @@
+{
+  "name": "Fated",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "273242b7"
+}
